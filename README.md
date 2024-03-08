@@ -44,6 +44,7 @@ O microserviço de notificação se comunica com o banco de dados de notificaç�
 
 Este README é um resumo do projeto. Para mais informações, consulte o modelo C4 completo.
 C4 Model: https://c4model.com/
+
 ![System Landscape](https://github.com/LuanRLima/kadrum_games_e-comerce/assets/57253111/bff48623-dedb-4fd9-ab8c-9393266791c4)
 ![structurizr-SystemContext-003 (1)](https://github.com/LuanRLima/kadrum_games_e-comerce/assets/57253111/7ed97a22-bc6e-495e-ab2b-590879bece6d)
 ![structurizr-Containers-014 (1)](https://github.com/LuanRLima/kadrum_games_e-comerce/assets/57253111/1d975cfd-4489-40d1-b9c0-0eb64e37508a)
