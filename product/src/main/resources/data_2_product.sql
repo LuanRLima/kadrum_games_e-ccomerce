@@ -1,0 +1,4 @@
+INSERT INTO "product" (name, description, price, stock, category_id, brand, color, size, weight, material) VALUES ('Produto 1', 'Descrição do Produto 1', 100.00, 10, 1, 'Marca 1', 'Vermelho', 'P', 0.5, 'Material 1');
+INSERT INTO "product" (name, description, price, stock, category_id, brand, color, size, weight, material) VALUES ('Produto 2', 'Descrição do Produto 2', 200.00, 20, 2, 'Marca 2', 'Azul', 'M', 0.7, 'Material 2');
+INSERT INTO "product" (name, description, price, stock, category_id, brand, color, size, weight, material) VALUES ('Produto 3', 'Descrição do Produto 3', 300.00, 30, 3, 'Marca 3', 'Verde', 'G', 0.9, 'Material 3');
+INSERT INTO "product" (name, description, price, stock, category_id, brand, color, size, weight, material) VALUES ('Produto 4', 'Descrição do Produto 4', 400.00, 40, 1, 'Marca 4', 'Amarelo', 'GG', 1.1, 'Material 4');
